@@ -40,6 +40,4 @@ g++ -o BowlingGame BowlingGame.cpp
 ./BowlingGame
 
 
-bowling-score-tracker/
-├── BowlingGame.cpp       # Main C++ code file
-└── README.md         # Project documentation
+
